@@ -35,9 +35,9 @@
     <mj-section background-color="#E8E8E8" padding="26px 24px">
       <mj-column>
         <mj-social mode="horizontal" icon-size="20px" inner-padding="0 16px" padding-bottom="16px">
-          <mj-social-element name="twitter-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/twitter.png" />
-          <mj-social-element name="facebook-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/facebook.png" />
-          <mj-social-element name="instagram-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/instagram.png" />
+          <mj-social-element name="twitter-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/twitter.png" background-color="transparent" />
+          <mj-social-element name="facebook-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/facebook.png" background-color="transparent" />
+          <mj-social-element name="instagram-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/instagram.png" background-color="transparent" />
         </mj-social>
         <mj-text font-size="14px" font-weight="400" color="#262626" padding-bottom="8px">
           <a href="https://dundermifflinpaper.com" style="color: #262626; text-decoration: none;">dundermifflinpaper.com</a>
