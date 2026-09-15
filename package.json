@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "mjml index.mjml -o index.html",
+    "watch": "mjml -w index.mjml -o index.html"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/notsabyrka/dunder-mifflin-email/issues"
   },
-  "homepage": "https://github.com/notsabyrka/dunder-mifflin-email#readme"
+  "homepage": "https://github.com/notsabyrka/dunder-mifflin-email#readme",
+  "devDependencies": {
+    "mjml": "^5.4.1"
+  }
 }
