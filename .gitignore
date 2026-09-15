@@ -11,3 +11,5 @@ Desktop.ini
 
 # Logs
 *.log
+
+node_modules
