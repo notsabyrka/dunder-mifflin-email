@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dunder Mifflin Email</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Inter, Arial, sans-serif" />
+      <mj-text padding="0px" color="#1a2028" align="center" />
+      <mj-button background-color="#1B54DD" color="#ffffff" font-weight="600" font-size="14px" border-radius="2px" inner-padding="12px 24px" padding="0px" />
+      <mj-image padding="0px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F4F5F7" width="600px">
+    <mj-section background-color="#1B54DD" padding="32px 0px">
+      <mj-column>
+        <mj-image width="100px" height="66px" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/logo.png" alt="Dunder Mifflin Logo" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="32px 24px">
+      <mj-column>
+        <mj-text font-size="36px" font-weight="700" line-height="120%">
+          I am Beyoncé always.
+        </mj-text>
+        <mj-button href="#" padding-top="32px">
+          CTA Text
+        </mj-button>
+        <mj-image src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/team.jpg" alt="Dunder Mifflin Team" padding-top="32px" />
+        <mj-text font-size="14px" font-weight="400" line-height="150%" padding-top="32px">
+          My, philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don't, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or where you are going, or where you've been. Ever. For any reason. Whatsoever.
+        </mj-text>
+        <mj-button href="#" padding-top="32px">
+          CTA Text
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#E8E8E8" padding="26px 24px">
+      <mj-column>
+        <mj-social mode="horizontal" icon-size="20px" inner-padding="0 16px" padding-bottom="16px">
+          <mj-social-element name="twitter-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/twitter.png" />
+          <mj-social-element name="facebook-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/facebook.png" />
+          <mj-social-element name="instagram-noshare" href="#" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/instagram.png" />
+        </mj-social>
+        <mj-text font-size="14px" font-weight="400" color="#262626" padding-bottom="8px">
+          <a href="https://dundermifflinpaper.com" style="color: #262626; text-decoration: none;">dundermifflinpaper.com</a>
+        </mj-text>
+        <mj-text font-size="10px" font-weight="400" line-height="160%" color="#262626" padding-bottom="16px">
+          1725 Slough Avenue #200, Scranton, PA, 18540<br />
+          © 2020 Bonnie Kate Wolf
+        </mj-text>
+        <mj-image width="40px" height="22px" src="https://raw.githubusercontent.com/notsabyrka/dunder-mifflin-email/main/assets/logo-alt.png" alt="DMI Logo" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
